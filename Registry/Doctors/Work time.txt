@@ -1,0 +1,10 @@
+Petrenko Ivan Ivanovich,Therapist,09.00,17.00,2,4,6
+Kucher Vitaliy Andriyovych,Surgeon,08.00,15.00,1,3,5
+Kalakutsky Artem Gennadievich,Surgeon,16.00,23.00,0,4,6
+Yakimenko Dmitry Stepanovich,Otorhinolaryngologist,10.00,18.00,2,4,6
+Shevchenko Marina Olehivna,Dentist,09.00,16.00,1,3,5
+Kulak Anzhela Pavlivna,Gynecologist,10.00,16.00,2,4,6
+Zayats Bohdana Bohdanivna,Oculist,11.00,17.00,1,3,5
+Golosko Marina Vyacheslavovna,Traumatologist,06.00,13.00,2,4,6
+Kantsev Ivan Alexandrovich,Traumatologist,13.00,20.00,1,3,5
+Naumenko Roman Olegovich,Family doctor,10.00,18.00,1,3,5

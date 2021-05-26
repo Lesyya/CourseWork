@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Doctors">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAQAE=</HashCode>
+      <FileName>Doctors.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAAAAGEAUAAAAAAAACAAAAAIAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patients">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="Person" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="8" Y="2.824" />
+        <Point X="8" Y="3.125" />
+        <Point X="9.25" Y="3.125" />
+        <Point X="9.25" Y="3.5" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="0.07" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAE=</HashCode>
+      <FileName>Patients.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAIAAAAAAAAAAABACAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Time">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdditionalStructures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Date">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdditionalStructures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Note">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAACAAAAAAAAAAAAAAAAAEAAAEAAAAA=</HashCode>
+      <FileName>AdditionalStructures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Card">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAQAAAAAAAAAAAAAEAAAEAAAAA=</HashCode>
+      <FileName>AdditionalStructures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Schedule">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAANAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAAECAA=</HashCode>
+      <FileName>AdditionalStructures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
